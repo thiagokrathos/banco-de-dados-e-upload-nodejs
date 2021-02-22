@@ -7,9 +7,9 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thiagokrathos/database-upload">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thiagokrathos/banco-de-dados-e-upload-nodejs">
 
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/thiagokrathos/database-upload?style=social">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/thiagokrathos/banco-de-dados-e-upload-nodejs?style=social">
 </p>
 
 <p align="center">
